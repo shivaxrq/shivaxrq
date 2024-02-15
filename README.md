@@ -1,4 +1,4 @@
-<h2 align="left">👋 Merhaba ben Cengizhan, discord botcusuyum</h2>
+<h2 align="left">👋 Merhaba ben Cengizhan,</h2>
 
 ###
 
