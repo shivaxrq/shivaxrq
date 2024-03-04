@@ -1,4 +1,4 @@
-<h2 align="left">👋 Merhaba ben Cengizhan,</h2>
+<h2 align="left">👋 Full sinek developer, shiva</h2>
 
 ###
 
