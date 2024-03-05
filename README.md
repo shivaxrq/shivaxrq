@@ -11,9 +11,10 @@ Full Stack Developer Shiva I am
 ```js
 class shiva{
   constructor(options) {
-    this.project = "Projelerimi çalmaya hazır mısın",  <img src="https://emoji.discadia.com/emojis/8991a9c7-c0e6-4d73-8c58-fa9c2adffd09.gif" width="27px">
+    this.project = "Projelerimi çalmaya hazır mısın", 
 }
 ```
+<img src="https://emoji.discadia.com/emojis/8991a9c7-c0e6-4d73-8c58-fa9c2adffd09.gif" width="27px">
 
 ###
 
