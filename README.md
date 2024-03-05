@@ -12,9 +12,8 @@
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb&perline=7">
 </p>
 
-<p align="center">
+
  [![Discord Presence](https://lanyard.cnrad.dev/api/921504197675991131)](https://discord.com/users/921504197675991131)
-</p>
 <br clear="both">
 
 
