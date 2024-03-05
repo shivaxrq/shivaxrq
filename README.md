@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- <p align="center"> [![Discord Presence](https://lanyard.cnrad.dev/api/921504197675991131)](https://discord.com/users/921504197675991131)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/921504197675991131)](https://discord.com/users/921504197675991131)
 </p>
 <br clear="both">
 
