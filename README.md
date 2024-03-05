@@ -8,14 +8,7 @@
     <br><br>😹 For Everything 👉 <a href="https://discord.com/users/921504197675991131">My Discord</a>
   </samp>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaxrq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaxrq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb&perline=7">
 
 
 <p align="center">
