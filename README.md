@@ -9,7 +9,6 @@
   </samp>
 
 ###
-<p align="center">
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb&perline=7">
 </p>
 
