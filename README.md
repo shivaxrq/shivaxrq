@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://discord.com/users/921504197675991131" target="_blank"><img src="https://lanyard.cnrad.dev/api/921504197675991131?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
 </p>
-<br><img src="https://count.getloli.com/get/@:vante-xyz?theme=asoul">
+<br><img src="https://count.getloli.com/get/@:shivaxrq?theme=asoul">
 <br clear="both">
 
 
