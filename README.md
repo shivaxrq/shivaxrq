@@ -8,6 +8,10 @@ Full Stack Developer Shiva I am
     <br><br>😹 For Everything 👉 <a href="https://discord.com/users/921504197675991131">My Discord</a>
   </samp>
 
+  \`\`\`js
+Full 
+  \`\`\`
+
 ###
 
 
