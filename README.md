@@ -9,8 +9,7 @@ Full Stack Developer Shiva I am
   </samp>
 
   \`\`\`js
-Full 
-  \`\`\`
+Full \`\`\`
 
 ###
 
