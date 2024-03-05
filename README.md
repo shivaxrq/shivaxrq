@@ -8,13 +8,13 @@ Full Stack Developer Shiva I am
     <br><br>😹 For Everything 👉 <a href="https://discord.com/users/921504197675991131">My Discord</a>
   </samp>
 
+<img src="https://emoji.discadia.com/emojis/8991a9c7-c0e6-4d73-8c58-fa9c2adffd09.gif" width="27px">
 ```js
 class shiva{
   constructor(options) {
     this.project = "Projelerimi çalmaya hazır mısın", 
 }
 ```
-<img src="https://emoji.discadia.com/emojis/8991a9c7-c0e6-4d73-8c58-fa9c2adffd09.gif" width="27px">
 
 ###
 
