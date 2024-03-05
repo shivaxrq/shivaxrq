@@ -1,4 +1,4 @@
-<h2 align="left">👋 Full sinek developer, shiva</h2>
+<h2 align="left">👋 Full Stack Developer, shiva</h2>
 
 ###
 
