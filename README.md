@@ -8,8 +8,19 @@ Full Stack Developer Shiva I am
     <br><br>😹 For Everything 👉 <a href="https://discord.com/users/921504197675991131">My Discord</a>
   </samp>
 
-  \`\`\`js
-Full \`\`\`
+```js
+class shiva{
+  constructor(options) {
+    this.birthday = "03",
+    this.birthmonth = "January",
+    this.height = "1.85",
+    this.weight = "60",
+    this.type = "human",
+    this.job = "programmer",
+    this.sex = "male"
+
+}
+```
 
 ###
 
