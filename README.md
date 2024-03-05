@@ -11,14 +11,7 @@ Full Stack Developer Shiva I am
 ```js
 class shiva{
   constructor(options) {
-    this.birthday = "03",
-    this.birthmonth = "January",
-    this.height = "1.85",
-    this.weight = "60",
-    this.type = "human",
-    this.job = "programmer",
-    this.sex = "male"
-
+    this.project = "Projelerimi çalmaya hazır mısın",
 }
 ```
 
