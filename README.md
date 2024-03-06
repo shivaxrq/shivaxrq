@@ -5,7 +5,7 @@
           <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="27px"> Hello
 Full Stack Developer Shiva I am 
 17 years old. I am interested in programming languages.<br>
-    <br><br>😹 For Everything 👉 <a href="https://discord.com/users/921504197675991131">My Discord</a>
+    <br><br>😹 For Everything 👉 <a href="https://discord.com/users/1185163404609073173">My Discord</a>
   </samp>
 
 ```js
@@ -19,7 +19,7 @@ class shiva{
 
 
 <p align="center">
- <a href="https://discord.com/users/921504197675991131" target="_blank"><img src="https://lanyard.cnrad.dev/api/921504197675991131?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
+ <a href="https://discord.com/users/1185163404609073173" target="_blank"><img src="https://lanyard.cnrad.dev/api/1185163404609073173?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
 <br clear="both">
 
 
