@@ -19,7 +19,7 @@ class shiva{
 
 
 <p align="center">
- <a href="https://discord.com/users/1185163404609073173" target="_blank"><img src="https://lanyard.cnrad.dev/api/1185163404609073173?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
+ <a href="[![Discord Presence](https://lanyard.cnrad.dev/api/1185163404609073173)](https://discord.com/users/1185163404609073173)" style="max-width: 100%;"></a>
 <br clear="both">
 
 
